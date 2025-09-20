@@ -1,0 +1,162 @@
+{
+  "novel": "大明风华录",
+  "created": "2025-01-20",
+  "lastUpdated": "2025-01-20",
+  "statistics": {
+    "totalChapters": 240,
+    "completedChapters": 20,
+    "currentChapter": 21,
+    "totalWords": 62120,
+    "targetWords": 800000,
+    "averageWordsPerChapter": 3106,
+    "completionRate": "8.33%"
+  },
+  "volumes": [
+    {
+      "volumeNumber": 1,
+      "title": "书生入世",
+      "chapters": 60,
+      "completedChapters": 20,
+      "status": "进行中",
+      "startDate": "2025-01-20",
+      "endDate": null
+    },
+    {
+      "volumeNumber": 2,
+      "title": "朝堂风云",
+      "chapters": 60,
+      "completedChapters": 0,
+      "status": "未开始",
+      "startDate": null,
+      "endDate": null
+    },
+    {
+      "volumeNumber": 3,
+      "title": "涅槃重生",
+      "chapters": 60,
+      "completedChapters": 0,
+      "status": "未开始",
+      "startDate": null,
+      "endDate": null
+    },
+    {
+      "volumeNumber": 4,
+      "title": "盛世曙光",
+      "chapters": 60,
+      "completedChapters": 0,
+      "status": "未开始",
+      "startDate": null,
+      "endDate": null
+    }
+  ],
+  "tasks": {
+    "total": 300,
+    "completed": 0,
+    "inProgress": 0,
+    "pending": 300,
+    "categories": {
+      "chapterWriting": {
+        "total": 240,
+        "completed": 0
+      },
+      "characterDevelopment": {
+        "total": 15,
+        "completed": 0
+      },
+      "worldBuilding": {
+        "total": 20,
+        "completed": 0
+      },
+      "revision": {
+        "total": 25,
+        "completed": 0
+      }
+    }
+  },
+  "milestones": [
+    {
+      "name": "完成第1章",
+      "targetDate": "2025-01-21",
+      "completed": true
+    },
+    {
+      "name": "完成前10章",
+      "targetDate": "2025-01-30",
+      "completed": false
+    },
+    {
+      "name": "完成第一卷",
+      "targetDate": "2025-03-20",
+      "completed": false
+    },
+    {
+      "name": "完成第二卷",
+      "targetDate": "2025-05-20",
+      "completed": false
+    },
+    {
+      "name": "完成第三卷",
+      "targetDate": "2025-07-20",
+      "completed": false
+    },
+    {
+      "name": "完成全书",
+      "targetDate": "2025-09-20",
+      "completed": false
+    }
+  ],
+  "dailyProgress": [
+    {
+      "date": "2025-01-20",
+      "chaptersCompleted": 20,
+      "wordsWritten": 62120,
+      "chapters": ["第1章：千年一梦", "第2章：江南春早", "第3章：诗会初遇", "第4章：北上征途", "第5章：京城初印象", "第6章：会试风云", "第7章：金榜题名", "第8章：殿试对策", "第9章：翰林初职", "第10章：首辅召见"]
+    }
+  ],
+  "notes": [
+    {
+      "date": "2025-01-20",
+      "content": "项目初始化完成，生成任务列表和进度追踪文件"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第一章《千年一梦》创作，字数2993字，成功描绘穿越场景和主角身份转换"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第二章《江南春早》创作，字数3350字，展现主角适应新身份，了解时代背景，埋设青铜古镜伏笔"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第三章《诗会初遇》创作，字数3231字，男女主角初次相遇，诗词唱和展现才华，建立初步情感联系"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第四章《北上征途》创作，字数2915字，展现运河沿途民生疾苦，主角改革决心更加坚定"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第五章《京城初印象》创作，字数3573字，展现京城繁华与腐朽并存，主角路见不平初显锋芒"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第六章《会试风云》创作，字数4071字，会试中以超前见解答题，引起主副考官关注和争议"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第七章《金榜题名》创作，字数3867字，高中贡士，结识同年，与沈玉卿夜谈，拜访利玛窦了解西学"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第八章《殿试对策》创作，字数4019字，殿试中直言改革主张，获万历皇帝赏识，授二甲第三名进士"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第九章《翰林初职》创作，字数3788字，任翰林院编修，了解官场派系，被东厂监视，沈玉卿再次神秘警告"
+    },
+    {
+      "date": "2025-01-20",
+      "content": "完成第十章《首辅召见》创作，字数3444字，惊现张居正诈死，获得改革真传，明白沈玉卿身份，正式接过改革重担"
+    }
+  ]
+}
