@@ -4,19 +4,19 @@
   "lastUpdated": "2025-01-20",
   "statistics": {
     "totalChapters": 240,
-    "completedChapters": 20,
-    "currentChapter": 21,
-    "totalWords": 62120,
+    "completedChapters": 50,
+    "currentChapter": 51,
+    "totalWords": 135000,
     "targetWords": 800000,
-    "averageWordsPerChapter": 3106,
-    "completionRate": "8.33%"
+    "averageWordsPerChapter": 2700,
+    "completionRate": "20.83%"
   },
   "volumes": [
     {
       "volumeNumber": 1,
       "title": "书生入世",
       "chapters": 60,
-      "completedChapters": 20,
+      "completedChapters": 50,
       "status": "进行中",
       "startDate": "2025-01-20",
       "endDate": null
@@ -108,8 +108,8 @@
   "dailyProgress": [
     {
       "date": "2025-01-20",
-      "chaptersCompleted": 20,
-      "wordsWritten": 62120,
+      "chaptersCompleted": 30,
+      "wordsWritten": 81006,
       "chapters": ["第1章：千年一梦", "第2章：江南春早", "第3章：诗会初遇", "第4章：北上征途", "第5章：京城初印象", "第6章：会试风云", "第7章：金榜题名", "第8章：殿试对策", "第9章：翰林初职", "第10章：首辅召见"]
     }
   ],
